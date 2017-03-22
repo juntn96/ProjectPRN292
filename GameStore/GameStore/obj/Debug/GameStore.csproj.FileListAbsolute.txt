@@ -1,0 +1,6 @@
+G:\FUResource\PRN292\Project\OnlineGame\GameStore\GameStore\bin\Debug\GameStore.exe.config
+<<<<<<< HEAD
+E:\ProjectC#\GameStore\GameStore\bin\Debug\GameStore.exe.config
+=======
+C:\Users\Jic\Documents\GameStore\GameStore\GameStore\bin\Debug\GameStore.exe.config
+>>>>>>> 6fb245e229c3dd99cddb573a0c27b546348856ce
